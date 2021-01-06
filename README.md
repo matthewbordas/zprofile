@@ -1,2 +1,2 @@
 # zshprofile
-Helpful Aliases for your Z shell Profile
+Helpful Aliases for your macOS Z shell Profile
